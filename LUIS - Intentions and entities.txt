@@ -1,0 +1,49 @@
+Intenciones - Informacion
+
+esta funcionando el proyector?
+que le pasa al proyector?
+el proyector esta dañado?
+el proyector esta apagado?
+el proyector esta encendido?
+el proyector esta prendido?
+las luces del publico estan prendidas?
+las luces del publico estan apagadas?
+las luces de la tarima si estan prendidas?
+las luces de la tarima estan encendidas?
+la puerta esta abierta?
+la puerta esta bloqueada?
+la puerta esta cerrada?
+esta cerrada la puerta?
+esta abierta la puerta?
+esta encendido el proyector?
+esta apagado el proyector?
+
+Intenciones - Acciones (Ordenes)
+
+puedes encender el proyector
+apaga el proyector
+enciende el proyector
+prende el proyector porfa
+puedes encender el proyector
+enciende el proyector
+apaga el proyector
+puedes encender el proyector
+apaga las luces del publico
+enciende las luces del publico
+enciente las luces del escenario
+apaga las luces del escenario
+cierra la puerta
+bloquea la puerta
+abre la puerta 
+
+Nombre de las intenciones
+
+Informacion
+None
+Solicitud
+
+Nombre de las Entidades
+
+Accion
+Estado
+Material
